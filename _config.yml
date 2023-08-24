@@ -8,12 +8,12 @@ keyword: "not"
 url: "https://blog.twtc.eu.org/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "not" # you code repository
-home_repo: "http://fujishiro.cn"
+home_repo: "not"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一个追寻梦想的人罢了"
-sidebar-avatar: /img/about-Otone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/logo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
