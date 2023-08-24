@@ -100,22 +100,22 @@ service-worker: true
 # links
 links: [
     {
-        title: "个人のGitHub",
-        href: "https://github.com/FujishiroOtone	"
+        title: "",
+        href: "	"
     },{
-        title: "简书·Otone",
-        href: "https://www.jianshu.com/u/3bf62aac1afc"
+        title: "",
+        href: ""
     },{
-        title: "Twitter",
-        href: "https://twitter.com/osuHatsuneMiku"
+        title: "",
+        href: ""
     },{
-        title: "个人のbilibili",
-        href: "https://space.bilibili.com/1880573/#/"
+        title: "",
+        href: ""
     },{
-        title: "asdfv1929",
-        href: "https://asdfv1929.github.io/"
+        title: "",
+        href: ""
     },{
-        title: "月小水长",
-        href: "https://inspurer.github.io/"
+        title: "",
+        href: ""
     }
 ]
